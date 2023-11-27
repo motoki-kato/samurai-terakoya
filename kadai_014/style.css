@@ -5,6 +5,8 @@ body {
 h1 {
     text-shadow: 1px 1px 2px gray;
     font-family: 'Noto Sans JP', sans-serif;
+    font-size: 2em;
+    letter-spacing: 1.2px;
 }
 .heading1 {
     text-align: center;
@@ -12,14 +14,12 @@ h1 {
 .heading2 {
     color: pink;
     text-align: center;
-    letter-spacing: 1.2rem;
    text-shadow: 1px 1px 2px gray;
    border-bottom: dotted 3px rgb(red, green, blue)
 }
 .heading3 {
     color: skyblue;
     text-align: center;
-    letter-spacing: 1.2rem;
     text-shadow: 1px 1px 2px gray;
     border-bottom: dotted 3px rgb(red, green, blue)
 }
@@ -43,6 +43,6 @@ h1 {
     #child p {
         font-weight: bold;
       }
-.html {
+html {
 font-size: 20px;
 }
