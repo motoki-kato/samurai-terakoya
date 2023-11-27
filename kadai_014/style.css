@@ -7,11 +7,9 @@ h1 {
     font-family: 'Noto Sans JP', sans-serif;
 }
 .heading1 {
-    font-size: 20px;
     text-align: center;
 }
 .heading2 {
-    font-size: 40px;
     color: pink;
     text-align: center;
     letter-spacing: 1.2rem;
@@ -19,7 +17,6 @@ h1 {
    border-bottom: dotted 3px rgb(red, green, blue)
 }
 .heading3 {
-    font-size: 40px;
     color: skyblue;
     text-align: center;
     letter-spacing: 1.2rem;
@@ -31,13 +28,13 @@ h1 {
         text-shadow: 1px 1px 2px gray;
         border-bottom: dotted 3px rgb(red, green, blue)
 }
-.heading5 {
+.skyblue {
     color: skyblue;
 }
-.heading6 {
+.pink {
     color: pink;
 }
-.heading7 {
+.black {
     color: black;
 }
 .text-bold {
@@ -46,3 +43,6 @@ h1 {
     #child p {
         font-weight: bold;
       }
+.html {
+font-size: 20px;
+}
